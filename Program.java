@@ -1,4 +1,5 @@
 public class Program {
+    // Статический метод - точка входа в программу
     public static void main(String[] args) {
         Circle circle = new Circle();
         circle.radius = 34;
